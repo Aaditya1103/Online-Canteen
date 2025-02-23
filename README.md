@@ -83,3 +83,4 @@ For more information about the project or for any inquiries, feel free to contac
 - **Hrideya Goyal**: [LinkedIn](https://in.linkedin.com/in/hrideya-goyal-8a568a231)
 - **Shubham Nagar**: [LinkedIn](https://in.linkedin.com/in/shubham-nagar-65b4a6206)
 
+Credit: This project acknowledges and builds upon the contributions of @darshankparmar 's repository.
